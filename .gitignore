@@ -1,7 +1,7 @@
 # Wordpress - ignore core, configuration, examples, uploads and logs.
 # https://github.com/github/gitignore/blob/main/WordPress.gitignore
 
-# Core
+# Core .staging
 #
 # Note: if you want to stage/commit WP core files
 # you can delete this whole section/until Configuration.
